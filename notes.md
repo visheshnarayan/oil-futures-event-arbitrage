@@ -34,6 +34,7 @@ later on the Intercontinental Exchange (ICE)."
 - "__UK__ was the largest producer, with
 the Brent System making up a significant volume of the UK production. From 1991 onward, __Norway__ became the largest producer, with production from both countries continuing to rise until 1999, when UK production reached its height. __Norwegian__ production peaked in 2001. Since then
 despite numerous new field additions, overall North Sea crude production has been in decline."
+- INTERESTING TO LOOK AT: is one singular variable fluctuating more than Brent as a whole in reaction to supply short? 
 
 ## Links
  - https://www.eia.gov/outlooks/steo/data.php 
