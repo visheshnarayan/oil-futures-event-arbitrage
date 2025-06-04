@@ -91,13 +91,13 @@ EDA was performed to understand the baseline characteristics and comparative beh
 
 ***(Insert time series comparison plot here)***
 
-![Time series plot of WTI and Brent](image1.png)
+![Time series plot of WTI and Brent](images/image1.png)
 
 We can clearly see that these indices closely follow each other. However, when observing around player trade windows:
 
 ***(Insert annotated event window plot here)***
 
-![WTI and Brent during transfer windows](image2.png)
+![WTI and Brent during transfer windows](images/image2.png)
 
 We can see that WTI in both instances a) responds quicker to our hypothesized oil squeezes and b) normalizes faster as well. This closely aligns with the paper’s proposed trading window and oil future fluctuation patterns.
 
@@ -109,7 +109,7 @@ This step aimed to determine which features, including WTI or Brent metrics them
 
 ***(Insert feature importance chart here)***
 
-![Feature importance chart](image3.png)
+![Feature importance chart](images/image3.png)
 
 ### 4.3 Anomaly Detection
 
@@ -158,7 +158,7 @@ The comparative analysis consistently demonstrated WTI's superiority over Brent 
 
 ***(Insert case study anomaly chart here)***
 
-![Anomaly detection chart](image4.png)
+![Anomaly detection chart](images/image4.png)
 
 ### 5.2 Volume Surges as Confirmatory Signals
 
@@ -168,7 +168,7 @@ The analysis noted that "volume surges in the oil market were also observed befo
 
 ***(Insert volume surge chart here)***
 
-![Volume surge example](image5.png)
+![Volume surge example](images/image5.png)
 
 Other players also display similar results. Refer to notebook in Github repository for more examples.
 
