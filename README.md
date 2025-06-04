@@ -89,27 +89,18 @@ EDA was performed to understand the baseline characteristics and comparative beh
 - Statistical summaries and distribution analysis
 - The Prophet library was considered for identifying structural breaks or changepoints that might correlate with external events
 
-***(Insert time series comparison plot here)***
-
 ![Time series plot of WTI and Brent](images/image1.png)
 
 We can clearly see that these indices closely follow each other. However, when observing around player trade windows:
 
-***(Insert annotated event window plot here)***
-
 ![WTI and Brent during transfer windows](images/image2.png)
+![WTI and Brent during transfer windows](images/image2b.png)
 
 We can see that WTI in both instances a) responds quicker to our hypothesized oil squeezes and b) normalizes faster as well. This closely aligns with the paper’s proposed trading window and oil future fluctuation patterns.
 
 ### 4.2 Feature Importance Analysis
 
 This step aimed to determine which features, including WTI or Brent metrics themselves, were most influential in models designed to detect market anomalies.
-
-- **Method:** The specific feature importance technique used (e.g., from scikit-learn's tree-based models like Random Forest, SHAP values, or permutation importance) was applied.
-
-***(Insert feature importance chart here)***
-
-![Feature importance chart](images/image3.png)
 
 ### 4.3 Anomaly Detection
 
@@ -156,21 +147,17 @@ The comparative analysis consistently demonstrated WTI's superiority over Brent 
 - **Market Event (e.g., 2023-05-01 from notebook):**
     - WTI-based anomaly detection: Signal "detected + more precise (less random anomalies)."
 
-***(Insert case study anomaly chart here)***
-
-![Anomaly detection chart](images/image4.png)
-
 ### 5.2 Volume Surges as Confirmatory Signals
 
 The analysis noted that "volume surges in the oil market were also observed before these trades" when analyzing WTI. This suggests that WTI trading volume acts as a corroborating indicator of market anticipation or reaction.
 
 **Anomaly detected near volume surge, as expected since this was one day prior to trading day.**
 
-***(Insert volume surge chart here)***
+![Volume surge example](images/image3.png)
+![Volume surge example](images/image4.png)
 
-![Volume surge example](images/image5.png)
 
-Other players also display similar results. Refer to notebook in Github repository for more examples.
+Other players also display similar results. Refer to notebook in repository for more examples.
 
 ---
 
