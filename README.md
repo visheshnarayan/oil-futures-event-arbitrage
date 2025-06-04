@@ -9,6 +9,16 @@ Inspired by the paper *"When Pep Comes Calling, the Oil Market Answers,"* which 
 
 Leveraging machine learning techniques, including anomaly detection (**Isolation Forest** and **One-Class SVM**) and feature importance analysis on historical data (primarily 2003-2019, with recent examples for illustration), this research concludes that **WTI is the superior benchmark**. WTI exhibits faster reaction times, more precise anomaly detection with fewer false positives, and a more drastic response to potential squeezes related to player trades compared to Brent. These findings are crucial for Apex Fund's strategy to identify and potentially capitalize on arbitrage opportunities within soccer trade windows, using WTI as a key predictive variable.
 
+## Table of Contents (Optional for README)
+
+1. [Introduction](#1-introduction)
+2. [Background: The "Pep" Paper and Theoretical Framework](#2-background-the-pep-paper-and-theoretical-framework)
+3. [Data](#3-data)
+4. [Methodology: Comparing WTI and Brent](#4-methodology-comparing-wti-and-brent)
+5. [Results: WTI as the Superior Indicator](#5-results-wti-as-the-superior-indicator)
+6. [Discussion](#6-discussion)
+7. [Conclusion](#7-conclusion)
+
 ---
 
 ## 1. Introduction
@@ -195,15 +205,3 @@ These findings allow Apex Quant to:
 This research, forming a key component of the "From the Pitch to Petro-Dollars" project, systematically compared WTI and Brent crude oil benchmarks to determine the optimal indicator for market reactions linked to football player transfers by oil-financed clubs. The analysis conclusively demonstrates that **West Texas Intermediate (WTI) is the superior benchmark** for this specific purpose.
 
 WTI exhibits faster reaction times, provides more precise anomaly detection with fewer false positives, and shows a more drastic response to potential oil squeezes associated with these transfers when compared to Brent. This heightened sensitivity makes WTI a more effective predictor and a more reliable guide for Apex Fund's strategies aimed at capitalizing on arbitrage opportunities during soccer trade windows. By focusing on WTI, Apex Fund can enhance its ability to gauge market sentiment and make more informed trading decisions in this unique intersection of sports finance and energy markets.
-
----
-
-## Table of Contents (Optional for README)
-
-1. [Introduction](#1-introduction)
-2. [Background: The "Pep" Paper and Theoretical Framework](#2-background-the-pep-paper-and-theoretical-framework)
-3. [Data](#3-data)
-4. [Methodology: Comparing WTI and Brent](#4-methodology-comparing-wti-and-brent)
-5. [Results: WTI as the Superior Indicator](#5-results-wti-as-the-superior-indicator)
-6. [Discussion](#6-discussion)
-7. [Conclusion](#7-conclusion)
