@@ -9,7 +9,7 @@ Inspired by the paper *"When Pep Comes Calling, the Oil Market Answers,"* which 
 
 Leveraging machine learning techniques, including anomaly detection (**Isolation Forest** and **One-Class SVM**) and feature importance analysis on historical data (primarily 2003-2019, with recent examples for illustration), this research concludes that **WTI is the superior benchmark**. WTI exhibits faster reaction times, more precise anomaly detection with fewer false positives, and a more drastic response to potential squeezes related to player trades compared to Brent. These findings are crucial for Apex Fund's strategy to identify and potentially capitalize on arbitrage opportunities within soccer trade windows, using WTI as a key predictive variable.
 
-## Table of Contents (Optional for README)
+## Table of Contents
 
 1. [Introduction](#1-introduction)
 2. [Background: The "Pep" Paper and Theoretical Framework](#2-background-the-pep-paper-and-theoretical-framework)
