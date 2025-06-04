@@ -1,7 +1,7 @@
 # WTI or Brent: Identifying the Optimal Oil Benchmark for Detecting Market Reactions to Football Club Transfer Activities
 
 *Apex Fund's Quantitative Team*
---
+---
 
 ## Abstract
 
