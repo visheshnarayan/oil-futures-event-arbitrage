@@ -189,7 +189,7 @@ These findings allow Apex Quant to:
 ### Limitations
 
 - While the "Pep" paper provides a strong theoretical basis, definitively proving causality between specific transfer deficits and oil price movements remains challenging due to the complexity of global oil markets.
-- The analysis period for the core alignment with the "Pep" paper is 2003-2019. Market structures and behaviors can evolve. (However, your testing on recent data helps mitigate this).
+- The analysis period for the core alignment with the "Pep" paper is 2003-2019. Market structures and behaviors can evolve.
 - The list of oil-financed clubs, while significant, is not exhaustive.
 
 ### Suggestions for Future Research
